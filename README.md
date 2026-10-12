@@ -2,7 +2,7 @@
 
 # Elder Care During COVID-19
 
-**A machine-learning model to predict how severe COVID-19 is likely to be in older adults, built as a supporting task for my undergraduate thesis.**
+**A machine-learning model to predict how severe COVID-19 is likely to be in older adults, built as a supporting task for my thesis.**
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
